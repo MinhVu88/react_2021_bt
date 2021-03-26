@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "wash dishes",
+      "date": "25/3/21 at 9 pm",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "water plants",
+      "date": "27/3/21 at 2 pm",
+      "reminder": true
+    },
+    {
+      "text": "clean house",
+      "date": "28/3/21 at 10 am",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
